@@ -18,4 +18,4 @@ Please Make a ticket if you have problems with the issues tab.
 
 ## Snapshots/Beta
 Version:1.2 Beta
-[download]https://drive.google.com/u/0/uc?id=1z0Tj3BzpfOOOFTwEXgYxikQkyryuAyKW&export=download)
+[download](https://drive.google.com/u/0/uc?id=1z0Tj3BzpfOOOFTwEXgYxikQkyryuAyKW&export=download)
