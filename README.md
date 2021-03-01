@@ -15,4 +15,3 @@ Version 1-Latest+snapshots is available in downloads TAB
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please Make a ticket if you have problems with the issues tab.
-## Bruh
