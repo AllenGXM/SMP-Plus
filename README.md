@@ -15,7 +15,10 @@ mod version 1 = Minecraft Forge 14.4
 Snapshots= Minecraft forge 14.4/16.x
 Beta= Minecraft Forge 14.4
 ## Contributing/Social Links
-
+Youtube SlashTrash 
+https://www.youtube.com/channel/UC41Sb9109zU4Dq6x271bcDg
+Discord server to play withme and my friends
+https://discord.gg/85npQFZ5GB
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please Make a ticket if you have problems with the issues tab.
 
